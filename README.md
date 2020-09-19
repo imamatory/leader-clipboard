@@ -1,5 +1,7 @@
 # leader-clipboard.vim
 
+### Copy of deleted repo [lxhillwind/leader-clipboard](https://github.com/lxhillwind/leader-clipboard)
+
 Inspired by [christoomey/vim-system-copy](
 https://github.com/christoomey/vim-system-copy),
 with motion and count supported.
